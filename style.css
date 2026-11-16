@@ -84,7 +84,7 @@ html, body {
     left: 50%;
     transform: translate(-50%, -50%);
     animation: bloom-pulse 2s ease-in-out infinite;
-    filter: drop-shadow(0 0 15px rgba(255, 120, 180, 0.8));
+    filter: drop-shadow(0 0 15px rgba(166, 193, 125, 0.8));
 }
 
 @keyframes bloom-pulse {
@@ -153,7 +153,7 @@ html, body {
 }
 
 .instructions span {
-    color: rgba(255, 160, 200, 1);
+    color: rgb(129, 183, 90);
     font-weight: 600;
 }
 
